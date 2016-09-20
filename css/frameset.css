@@ -1,0 +1,44 @@
+@charset "utf-8";
+/* CSS Document */
+.col-1{ width:60px; float:left;margin:0px 10px;}
+.col-2{ width:140px; float:left;margin:0px 10px;}
+.col-3{ width:220px; float:left;margin:0px 10px;}
+.col-4{ width:300px; float:left;margin:0px 10px;}
+.col-5{ width:380px; float:left;margin:0px 10px;}
+.col-6{ width:460px; float:left;margin:0px 10px;}
+.col-7{ width:540px; float:left;margin:0px 10px;}
+.col-8{ width:620px; float:left;margin:0px 10px;}
+.col-9{ width:700px; float:left;margin:0px 10px;}
+.col-9{ width:780px; float:left;margin:0px 10px;}
+.col-10{ width:860px; float:left;margin:0px 10px;}
+.col-12{ width:940px; float:left;margin:0px 10px;}
+
+.clean0{ clear:both;}
+.clean10{ clear:both; height:10px;}
+.clean20{ clear:both; height:20px;}
+.clean30{ clear:both; height:30px;}
+.clean40{ clear:both; height:40px;}
+
+.right{ float:right;}
+.left{ float: left;}
+.tright{ text-align: right;}
+.tleft{ text-align:left;}
+.tcenter{ text-align:center;}
+.footer-left
+{
+	width:260px;
+	margin: 30px 40px 0px 10px;
+	float:left;
+}
+.footer-mid
+{
+	width:270px;
+	margin: 30px 40px 0px 10px;
+	float:left;
+}
+.footer-right
+{
+	width:240px;
+	margin: 30px 10px 0px 60px;
+	float:right;
+}
